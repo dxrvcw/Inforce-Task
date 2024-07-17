@@ -1,4 +1,4 @@
-import { IProduct } from '../../utils/types'
+import { IProduct } from '../../../utils/types'
 import { ProductControls } from '../ProductControls/ProductControls'
 
 export function ProductItem({ product }: { product: IProduct }) {
